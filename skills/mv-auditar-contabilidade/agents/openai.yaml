@@ -1,0 +1,4 @@
+interface:
+  display_name: "MV — Auditoria e Correção Controlada"
+  short_description: "Auditar e corrigir casos unitários no Soul MV"
+  default_prompt: "Use $mv-auditar-contabilidade para investigar o caso no Soul MV e, se eu autorizar, executar uma correção unitária com validação e rollback."

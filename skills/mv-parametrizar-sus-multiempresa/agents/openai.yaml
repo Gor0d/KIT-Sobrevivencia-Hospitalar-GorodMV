@@ -1,0 +1,4 @@
+interface:
+  display_name: "MV SUS Multiempresa"
+  short_description: "Parametriza e homologa contratos SUS no MV"
+  default_prompt: "Use $mv-parametrizar-sus-multiempresa para mapear e homologar uma parametrização SUS multiempresa no MV."
